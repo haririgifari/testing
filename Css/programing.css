@@ -1,0 +1,38 @@
+body {
+    font-family: 'Sora', sans-serif;
+    background-color: #1E90FF;
+  }
+  
+#ajax h1 {
+    font-weight: 500;
+    margin-top: 20px;
+    font-size: 50px;
+}
+
+#asp h1 {
+    font-weight: 500;
+    margin-top: 20px;
+    font-size: 50px;
+}
+#css h1 {
+    font-weight: 500;
+    margin-top: 20px;
+    font-size: 50px;
+}
+
+#jquery h1 {
+    font-weight: 500;
+    margin-top: 20px;
+    font-size: 50px;
+}
+#mysql h1 {
+    font-weight: 500;
+    margin-top: 20px;
+    font-size: 50px;
+}
+
+#php h1 {
+    font-weight: 500;
+    margin-top: 20px;
+    font-size: 50px;
+}
